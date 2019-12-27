@@ -1,0 +1,27 @@
+Title Of The Project:
+DIET PLAN
+
+Introduction:
+This website gives Diet Plans on basis of customers requirements. 
+It has different plans for different requirements.
+People can make use of this website and keep their health onto control and can also can stay fit.
+
+System Requirement:
+
+
+
+Software Requirement:
+
+
+
+Working:
+Firstly user need to login or signup.
+If new user then user will signup first.
+Next website will take the basic information.
+Customer need to agree to the terms and conditions.
+Then Diet Plans will be displayed that whether customer wants only diet or workout or both.
+Next payment details should be entered.
+Two days free trial and then charges will begin.
+According to the Basic information of User ie, age, weight, weightloss or weight gain diet plans will be displayed.
+The plans will be of 7 days and repeats for every 7 days.
+ 
