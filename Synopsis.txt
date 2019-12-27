@@ -7,10 +7,13 @@ It has different plans for different requirements.
 People can make use of this website and keep their health onto control and can also can stay fit.
 
 System Requirement:
-
+Windows 8,8.1,10
 
 
 Software Requirement:
+Java
+Notepad++
+Oracle
 
 
 
@@ -24,4 +27,3 @@ Next payment details should be entered.
 Two days free trial and then charges will begin.
 According to the Basic information of User ie, age, weight, weightloss or weight gain diet plans will be displayed.
 The plans will be of 7 days and repeats for every 7 days.
- 
