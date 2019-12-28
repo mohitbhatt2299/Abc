@@ -1,5 +1,5 @@
 Title Of The Project:
-DIET PLAN
+DIET Management System
 
 Introduction:
 This website gives Diet Plans on basis of customers requirements. 
@@ -8,12 +8,15 @@ People can make use of this website and keep their health onto control and can a
 
 System Requirement:
 Windows 8,8.1,10
-
+RAM 4GB and more
+Chrome,FireFox and latest version of web browser
+Internet Required
 
 Software Requirement:
 Java
 Notepad++
 Oracle
+Spring Tool 4
 
 
 
