@@ -2,6 +2,7 @@
 		var userValue=document.getElementById("emailId").value;
 		var namePattern="^[A-Za-z0-9]+[@]{1}[a-z]+(.com|.co.in|.in)$";
 		document.getElementById("validemail").style.color="red";
+	
 		if(!userValue.match(namePattern)){
 	
 			document.getElementById("validemail").innerHTML="enter correct user name";
