@@ -1,10 +1,8 @@
 Title Of The Project:
-DIET Management System
+DELOITTE DESIGNATION
 
 Introduction:
-This website gives Diet Plans on basis of customers requirements. 
-It has different plans for different requirements.
-People can make use of this website and keep their health onto control and can also can stay fit.
+This project gives us Designation of freshers of Deloitte. This helps the company to make work easy of deciding Designation of fresher. With help of Eduction details, interview score and skills Designation of fresher will be decided.
 
 System Requirement:
 Windows 8,8.1,10
@@ -21,12 +19,12 @@ Spring Tool 4
 
 
 Working:
-Firstly user need to login or signup.
-If new user then user will signup first.
-Next website will take the basic information.
-Customer need to agree to the terms and conditions.
-Then Diet Plans will be displayed that whether customer wants only diet or workout or both.
-Next payment details should be entered.
-Two days free trial and then charges will begin.
-According to the Basic information of User ie, age, weight, weightloss or weight gain diet plans will be displayed.
-The plans will be of 7 days and repeats for every 7 days.
+Firstly user/admin need to login or signup.
+If it is admin then redirected to admin menu page.
+Admin shall select either Add new fresher or Change details of new fresher or Remove a fresher or Display all the fresher.
+If Add new fresher then Personal information of fresher is added then Qualification information is added and then Designation is decided.
+If change details of fresher then it will be directed to Personal information page then Qualification information page .
+If Remove Fresher then directed toremove fresher page.
+If Display all fresher then every freshers details and designation is displayed.
+If it is fresher login then Userid and password is asked and the fresher will be directed to job description page.
+
